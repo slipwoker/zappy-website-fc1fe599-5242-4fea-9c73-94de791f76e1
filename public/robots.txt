@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-spiralla-man-fc1fe599.zappy5.app/sitemap.xml

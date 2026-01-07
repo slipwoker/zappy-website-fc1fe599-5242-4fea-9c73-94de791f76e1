@@ -1,0 +1,57 @@
+# The Spiralla Man — Generative Engine Optimization Map
+
+> A אומנות דיגיטלית / אינטראקציה יצירתית business.
+
+---
+
+## Pages
+
+### בית
+https://the-spiralla-man-fc1fe599.zappy5.app
+גלה את עולם תורת הספירלה המרהיב עם The Spiralla Man - חוויה אינטראקטיבית ייחודית של אומנות דיגיטלית. היכנס לספירלה עכשיו!
+
+### החוויה
+https://the-spiralla-man-fc1fe599.zappy5.app/services
+גלה את מגוון חוויות תורת הספירלה של The Spiralla Man - מחוויות בסיסיות ועד מסעות עומק מקיפים. כל חוויה מציעה מסע ייחודי לעולם האומנות הדיגיטלית האינטראקטיבית.
+
+### אודות
+https://the-spiralla-man-fc1fe599.zappy5.app/about
+הכר את The Spiralla Man - האמן והחוקר שמאחורי תורת הספירלה. גלה את הסיפור, החזון, והפילוסופיה שמניעים את החוויות האינטראקטיביות המרהיבות שלנו.
+
+### צור קשר
+https://the-spiralla-man-fc1fe599.zappy5.app/contact
+צור קשר עם The Spiralla Man לקבלת מידע נוסף על תורת הספירלה, להזמנת חוויות אינטראקטיביות, או לשאול שאלות. נשמח לשמוע ממך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://the-spiralla-man-fc1fe599.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://the-spiralla-man-fc1fe599.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://the-spiralla-man-fc1fe599.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About The Spiralla Man
+The Spiralla Man is a business in the אומנות דיגיטלית / אינטראקציה יצירתית industry.
+
+## Target Audience
+אנשים המחפשים חוויה אמנותית אינטראקטיבית ייחודית
+
+## Industry
+אומנות דיגיטלית / אינטראקציה יצירתית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://the-spiralla-man-fc1fe599.zappy5.app/sitemap.xml
+- **Robots.txt**: https://the-spiralla-man-fc1fe599.zappy5.app/robots.txt
